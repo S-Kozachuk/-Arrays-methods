@@ -1,0 +1,26 @@
+body {
+	padding: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3,h4 {
+	font-weight: 400;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: #0969da;
+	transition: .5s;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+button{
+	cursor: pointer;
+}
